@@ -4,16 +4,16 @@
     box-sizing: border-box;
 }
 body{
-    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F584693964105087129%2F&psig=AOvVaw31FMEoYCb41vti0AnsU-Fy&ust=1713015363160000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj_ttjlvIUDFQAAAAAdAAAAABAE");
+    background: url("bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size:cover;
     height:80vh;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: white;
+    color: black;
 }
 .loading{
     width: 60px;
